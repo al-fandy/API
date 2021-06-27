@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "COD1",
+      "name": "Asyrof",
+      "email": "Asyrof@gmail.com",
+      "address": "Bekasi,Tambun, Indonesia",
+      "gender": "male",
+      "phone": {
+        "mobile": "+62 56754353534345",
+        "home": "08121553432",
+        "office": "082563323442"
+      }
+    }
+  ]
+}
